@@ -23,7 +23,7 @@ Setting the enviroment: <br/>
 <img width="400" height="350" src="https://i.imgur.com/s2ysMWa.png" height="80%" width="80%" alt="365"/>
 <br />
 <br />
-Select the disk:  <br/>
+Microsoft 365 interface:  <br/>
 <img width="400" height="350" src="https://i.imgur.com/6aojM4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
